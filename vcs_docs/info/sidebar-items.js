@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["read_object_from_file",""],["write_object_to_file",""]],"struct":[["BranchInfo",""],["BranchesInfo",""],["CommitInfo",""],["CommitsInfo",""],["CommitsList",""],["RepoInfo",""]]};

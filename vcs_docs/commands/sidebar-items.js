@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["commit",""],["init",""],["jump",""],["log",""],["merge",""],["new_branch",""],["status",""],["work_with_directory",""]]};
