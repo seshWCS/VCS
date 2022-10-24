@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["jump_to_branch",""],["jump_to_commit",""]]};

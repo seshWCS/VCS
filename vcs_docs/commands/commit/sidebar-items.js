@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["commit",""],["merge_commit",""]]};
